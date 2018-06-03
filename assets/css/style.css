@@ -1,0 +1,28 @@
+.static,
+.dynamic,
+h1, h4 {
+    margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h4 {
+    font-weight: 700;
+}
+
+h1 {
+    font-size: 28px;
+}
+
+h4 {
+    font-size: 22px;
+}
+
+.static,
+.dynamic {
+    display: inline-block;
+}
+
+.static {
+    margin-right: 1px;
+}
+
